@@ -1,0 +1,1 @@
+(self.webpackChunkzed1=self.webpackChunkzed1||[]).push([[45],{9045:(e,t,s)=>{"use strict";function r(){return fetch("https://jsonplaceholder.typicode.com/users/").then((e=>{if(!e.ok)throw Error(e.statusText);return e.json()})).then((e=>e))}s.r(t),s.d(t,{getUsers:()=>r})}}]);
